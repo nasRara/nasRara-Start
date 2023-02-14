@@ -1,5 +1,5 @@
 /**
- * Welcome to your first lab! This lab will identify all the different entities that you'll be creating and
+ * Welcome your first lab! This lab will identify all the different entities that you'll be creating and
  * manipulating in your code. It is purely informational, and you do NOT need to write or change anything in this
  * lab. The test cases for this lab will pass from the start.
  *
